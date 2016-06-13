@@ -1,6 +1,7 @@
 /*
  *  Minimal SSL client, used for memory measurements.
- *  (meant to be used with config-suite-b.h or config-ccm-psk-tls1_2.h)
+ * 
+ (meant to be used with config-suite-b.h or config-ccm-psk-tls1_2.h)
  *
  *  Copyright (C) 2006-2015, ARM Limited, All Rights Reserved
  *  SPDX-License-Identifier: Apache-2.0
