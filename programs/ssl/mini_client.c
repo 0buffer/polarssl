@@ -1,5 +1,5 @@
 /*
- * Minimal SSL client, used for memory measurements.
+ *   Minimal SSL client, used for memory measurements.
  * 
  (meant to be used with config-suite-b.h or config-ccm-psk-tls1_2.h)
  *
