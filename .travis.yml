@@ -23,7 +23,7 @@ env:
     secure: "barHldniAfXyoWOD/vcO+E6/Xm4fmcaUoC9BeKW+LwsHqlDMLvugaJnmLXkSpkbYhVL61Hzf3bo0KPJn88AFc5Rkf8oYHPjH4adMnVXkf3B9ghHCgznqHsAH3choo6tnPxaFgOwOYmLGb382nQxfE5lUdvnM/W/psQjWt66A1+k="
 
 addons:
-  coverity_scan:
+ coverity_scan:
     project:
       name: "ARMmbed/mbedtls"
     notification_email: p.j.bakker@polarssl.org
