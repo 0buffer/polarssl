@@ -44,6 +44,7 @@ Features
    * Added a key extraction callback to accees the master secret and key
      block. (Potential uses include EAP-TLS and Thread.)
 
+
 Bugfix
    * Self-signed certificates were not excluded from pathlen counting,
      resulting in some valid X.509 being incorrectly rejected. Found and fix
