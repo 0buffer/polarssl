@@ -41,4 +41,5 @@
  * the next bit with a probability larger than 1/2 in an output sequence.
  *
  * This module can be used to generate random numbers.
+
  */
