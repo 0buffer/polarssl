@@ -20,7 +20,6 @@
  *
  *  This file is part of mbed TLS (https://tls.mbed.org)
  */
-
 /**
  * @addtogroup ssltls_communication_module SSL/TLS communication module
  *
