@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+
 # Generate files for MS Visual Studio:
 # - for VS6: main project (library) file, individual app files, workspace
 # - for VS2010: main file, individual apps, solution file
