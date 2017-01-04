@@ -1,7 +1,6 @@
 /*
  *  An implementation of the ARCFOUR algorithm
  *
-
  *   Copyright (C) 2006-2015, ARM Limited, All Rights Reserved
  *  SPDX-License-Identifier: Apache-2.0
  *
