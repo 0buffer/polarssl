@@ -4,7 +4,6 @@
 
 use warnings;
 use strict;
-
 my $usage = <<EOU;
 $0 [-f <file>] unset <name>
 $0 [-f <file>] set <name> [<value>]
