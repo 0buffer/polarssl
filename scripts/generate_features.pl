@@ -9,6 +9,7 @@ if( @ARGV ) {
     die "Invalid number of arguments" if scalar @ARGV != 3;
     ($include_dir, $data_dir, $feature_file) = @ARGV;
 
+
     -d $include_dir or die "No such directory: $include_dir\n";
     -d $data_dir or die "No such directory: $data_dir\n";
 } else {

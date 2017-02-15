@@ -3,6 +3,7 @@
 # Measure heap usage (and performance) of ECC operations with various values of
 # the relevant tunable compile-time parameters.
 #
+
 # Usage (preferably on a 32-bit platform):
 # cmake -D CMAKE_BUILD_TYPE=Release .
 # scripts/ecc-heap.sh | tee ecc-heap.log

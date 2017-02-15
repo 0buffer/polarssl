@@ -3,6 +3,7 @@
 VERSION=""
 SOVERSION=""
 
+
 # Parse arguments
 #
 until [ -z "$1" ]
