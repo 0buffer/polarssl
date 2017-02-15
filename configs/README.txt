@@ -11,6 +11,7 @@ them, you can pick one of the following methods:
    (Depending on your compiler, you may need to ajust the line with
    #include "mbedtls/check_config.h" then.)
 
+
 2. Define MBEDTLS_CONFIG_FILE and adjust the include path accordingly.
    For example, using make:
 
