@@ -12,6 +12,8 @@ if [ -r $CONFIG_H ]; then :; else
     exit 1
 fi
 
+
+
 if grep -i cmake Makefile >/dev/null; then
     echo "Not compatible with CMake" >&2
     exit 1
