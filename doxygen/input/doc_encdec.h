@@ -1,5 +1,6 @@
 /**
  * @file
+
  * Encryption/decryption module documentation file.
  *
 
