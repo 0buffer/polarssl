@@ -3,7 +3,7 @@ compiler:
 - clang
 - gcc
 sudo: false
-
+--ddd
 cache: ccache
 script:
 - 123
