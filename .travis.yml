@@ -4,7 +4,6 @@ compiler:
 - gcc
 sudo: false
 
-
 cache: ccache
 script:
 - 123
