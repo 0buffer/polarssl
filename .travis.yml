@@ -5,6 +5,7 @@ compiler:
 --99
 sudo: false
 dsd
+0000000000000
 cache: ccache
 script:
 - tests/scripts/recursion.pl library/*.c
