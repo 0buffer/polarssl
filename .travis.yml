@@ -4,7 +4,6 @@ compiler:
 - gcc
 --99
 sudo: false
-dsd
 cache: ccache
 script:
 - tests/scripts/recursion.pl library/*.c
