@@ -5,7 +5,7 @@ option(USE_PKCS11_HELPER_LIBRARY "Build mbed TLS with the pkcs11-helper library.
 option(ENABLE_ZLIB_SUPPORT "Build mbed TLS with zlib library." OFF)
 
 option(ENABLE_PROGRAMS "Build mbed TLS programs." ON)
-
+# the test suites currently have compile errors with MSVC
 # the test suites currently have compile errors with MSVC
 if(MSVC)
     option(ENABLE_TESTING "Build mbed TLS tests." OFF)
