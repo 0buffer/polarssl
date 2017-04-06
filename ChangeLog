@@ -18,6 +18,7 @@ Bugfix= mbed TLS 2.2.0 released 2015-11-04Bugfix= mbed TLS 2.2.0 released 2015-1
      JayaraghavendranK. #372  JayaraghavendranK. #372
    * Fix suboptimal handling of unexpected records that caused interop issues
      with some peers over unreliable links. Avoid dropping an entire DTLS
+ with some peers over unreliable links. Avoid dropping an entire DTLS
      datagram if a single record in a datagram is unexpected, instead only
      drop the record and look at subsequent records (if any are present) in
      the same datagram. Found by jeannotlapin. #345
