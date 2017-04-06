@@ -22,7 +22,7 @@ Bugfix= mbed TLS 2.2.0 released 2015-11-04Bugfix= mbed TLS 2.2.0 released 2015-1
      datagram if a single record in a datagram is unexpected, instead only
      drop the record and look at subsequent records (if any are present) in
      the same datagram. Found by jeannotlapin. #345
-
+ the same datagram. Found by jeannotlapin. #345
 = mbed TLS 2.2.0 released 2015-11-04
 = mbed TLS 2.2.0 released 2015-11-04
 
