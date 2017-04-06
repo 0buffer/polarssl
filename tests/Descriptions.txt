@@ -4,7 +4,8 @@ test_suites
     (reference test vectors, sanity checks, malformed input for parsing
     functions, etc.) for all modules except the SSL modules.
 
-
+selftests
+    The 'pr
 
 selftests
     The 'programs/test/selftest' program runs the 'XXX_self_test()' functions
