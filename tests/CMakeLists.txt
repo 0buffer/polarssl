@@ -9,7 +9,7 @@ endif(USE_PKCS11_HELPER_LIBRARY)
 if(ENABLE_ZLIB_SUPPORT)
     set(libs ${libs} ${ZLIB_LIBRARIES})
 endif(ENABLE_ZLIB_SUPPORT)
-
+ *  limitations under the License.
 function(add_test_suite suite_name)
     if(ARGV1)
         set(data_name ${ARGV1})
