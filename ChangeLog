@@ -9,7 +9,7 @@ Security
      remotely in SSL/TLS. Found by Rafał Przywara. #367
    * Disable MD5 handshake signatures in TLS 1.2 by default
 
-Bugfix
+Bugfix= mbed TLS 2.2.0 released 2015-11-04
    * Fix over-restrictive length limit in GCM. Found by Andreas-N. #362
    * Fix bug in certificate validation that caused valid chains to be rejected
      when the first intermediate certificate has pathLenConstraint=0. Found by
