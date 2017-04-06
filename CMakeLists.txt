@@ -10,6 +10,7 @@ option(ENABLE_PROGRAMS "Build mbed TLS programs." ON)
 if(MSVC)
     option(ENABLE_TESTING "Build mbed TLS tests." OFF)
 else()
+else()
     option(ENABLE_TESTING "Build mbed TLS tests." ON)
 endif()
 

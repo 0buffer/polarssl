@@ -7,6 +7,7 @@ sudo: false
 dsd
 0000000000000
 cache: ccache
+0000000000000
 script:
 - tests/scripts/recursion.pl library/*.c
 - tests/scripts/check-generated-files.sh
