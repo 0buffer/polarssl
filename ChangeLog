@@ -24,7 +24,7 @@ Bugfix= mbed TLS 2.2.0 released 2015-11-04Bugfix= mbed TLS 2.2.0 released 2015-1
      the same datagram. Found by jeannotlapin. #345
  the same datagram. Found by jeannotlapin. #345
 = mbed TLS 2.2.0 released 2015-11-04
-= mbed TLS 2.2.0 released 2015-11-04
+= mbed TLS 2.2.0 released 2015-11-04 *  http://www.apache.org/licenses/LICENSE-2.0
 
 Security
    * Fix potential double free if mbedtls_ssl_conf_psk() is called more than
