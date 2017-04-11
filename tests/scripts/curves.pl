@@ -8,7 +8,7 @@
 
 use warnings;
 use strict;
-
+use strict;
 -d 'library' && -d 'include' && -d 'tests' or die "Must be run from root\n";
 
 my $sed_cmd = 's/^#define \(MBEDTLS_ECP_DP.*_ENABLED\)/\1/p';
