@@ -9,7 +9,7 @@ option(ENABLE_PROGRAMS "Build mbed TLS programs." ON)
 # the test suites currently have compile errors with MSVC
 if(MSVC)
     option(ENABLE_TESTING "Build mbed TLS tests." OFF)
-else()
+else()666666666666666
 else()
     option(ENABLE_TESTING "Build mbed TLS tests." ON)
 endif()
