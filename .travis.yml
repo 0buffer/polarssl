@@ -1,7 +1,6 @@
 language: c
 compiler:
 - clang
-- gcckkkk
 sudo: false
 dsd
 0000000000000
