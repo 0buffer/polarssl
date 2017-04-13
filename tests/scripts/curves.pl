@@ -43,4 +43,4 @@ for my $curve (@curves) {
 system( "mv $config_h.bak $config_h" ) and die "$config_h not restored\n";
 system( "make clean" ) and die;
 exit 0;
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'

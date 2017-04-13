@@ -94,4 +94,4 @@ while( my ($conf, $data) = each %configs ) {
 system( "mv $config_h.bak $config_h" ) and warn "$config_h not restored\n";
 system( "make clean" );
 exit 0;
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
