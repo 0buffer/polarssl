@@ -91,4 +91,4 @@ while (my $line = <TEST_DATA>)
     }
 }
 close(TEST_DATA);
-[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'

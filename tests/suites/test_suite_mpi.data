@@ -717,4 +717,4 @@ mbedtls_mpi_set_bit:16:"00":32:1:16:"0100000000"
 MPI Selftest
 depends_on:MBEDTLS_SELF_TEST
 mpi_selftest:
-[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'

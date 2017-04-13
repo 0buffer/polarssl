@@ -39,4 +39,4 @@ entropy_threshold:1024:1:MBEDTLS_ERR_ENTROPY_SOURCE_FAILED
 
 Entropy self test
 entropy_selftest:
-[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
