@@ -15,7 +15,7 @@ script:
 - programs/test/selftest
 - OSSL_NO_DTLS=1 tests/compat.sh
 - tests/ssl-opt.sh -e '\(DTLS\|SCSV\).*openssl'
-- tests/scripts/test-ref-configs.pl
+- tests/scripts/test-ref-configs.plpens
 - tests/scripts/curves.pl
 - tests/scripts/key-exchanges.pl
 env:
