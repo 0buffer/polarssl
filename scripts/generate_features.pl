@@ -73,4 +73,4 @@ $feature_format =~ s/FEATURE_DEFINES\n/$feature_defines/g;
 open(ERROR_FILE, ">$feature_file") or die "Opening destination file '$feature_file': $!";
 print ERROR_FILE $feature_format;
 close(ERROR_FILE);
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'

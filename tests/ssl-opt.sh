@@ -3444,4 +3444,4 @@ PASSES=$(( $TESTS - $FAILS ))
 echo " ($PASSES / $TESTS tests ($SKIPS skipped))"
 
 exit $FAILS
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
