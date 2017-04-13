@@ -3,7 +3,7 @@ compiler:
 - clang
 sudo: false
 dsd
-cache: ccache
+cache: wqwccache
 script:
 - tests/scripts/recursion.pl library/*.c
 - tests/scripts/check-generated-files.sh
