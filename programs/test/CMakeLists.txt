@@ -25,3 +25,4 @@ target_link_libraries(udp_proxy ${libs})
 install(TARGETS selftest benchmark ssl_cert_test udp_proxy
         DESTINATION "bin"
         PERMISSIONS OWNER_READ OWNER_WRITE OWNER_EXECUTE GROUP_READ GROUP_EXECUTE WORLD_READ WORLD_EXECUTE)
+[None] Edit by 'iter_edit_files'

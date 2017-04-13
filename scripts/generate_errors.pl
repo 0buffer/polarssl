@@ -193,3 +193,4 @@ $error_format =~ s/HIGH_LEVEL_CODE_CHECKS\n/$hl_code_check/g;
 open(ERROR_FILE, ">$error_file") or die "Opening destination file '$error_file': $!";
 print ERROR_FILE $error_format;
 close(ERROR_FILE);
+[None] Edit by 'iter_edit_files'

@@ -33,3 +33,4 @@
 #if defined(TARGET_LIKE_CORTEX_M4)
 #define MBEDTLS_ENTROPY_HARDWARE_ALT
 #endif
+[None] Edit by 'iter_edit_files'

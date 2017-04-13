@@ -674,3 +674,4 @@ void check_padding( int pad_mode, char *input_str, int ret, int dlen_check )
         TEST_ASSERT( dlen == (size_t) dlen_check );
 }
 /* END_CASE */
+[None] Edit by 'iter_edit_files'

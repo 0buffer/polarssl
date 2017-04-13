@@ -33,3 +33,4 @@ print "-" x 72, "\n";
 print $failed_suites ? "FAILED" : "PASSED";
 printf " (%d suites, %d tests run)\n", scalar @suites, $total_tests_run;
 exit( $failed_suites ? 1 : 0 );
+[None] Edit by 'iter_edit_files'

@@ -43,3 +43,4 @@ int _tmain( int argc, _TCHAR* targv[] )
 }
 
 #endif  /* defined(_WIN32_WCE) */
+[None] Edit by 'iter_edit_files'

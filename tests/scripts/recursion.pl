@@ -42,3 +42,4 @@ while (<>)
 
 print "$_\n" for @funcs;
 exit @funcs;
+[None] Edit by 'iter_edit_files'
