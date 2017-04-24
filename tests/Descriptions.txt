@@ -23,4 +23,4 @@ ssl_opt
     The 'tests/ssl-opt.sh' script checks various options and/or operations not
     covered by compat.sh: session resumption (using session cache or tickets),
     renegotiation, SNI, other extensions, etc.
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'

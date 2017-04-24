@@ -701,4 +701,4 @@ decrypt_test_vec:MBEDTLS_CIPHER_CAMELLIA_256_GCM:-1:"feffe9928665731c6d6a8f94673
 CAMELLIA 256 GCM Decrypt test vector #5
 depends_on:MBEDTLS_CAMELLIA_C:MBEDTLS_GCM_C
 decrypt_test_vec:MBEDTLS_CIPHER_CAMELLIA_256_GCM:-1:"feffe9928665731c6d6a8f9467308308feffe9928665731c6d6a8f9467308308":"cafebabefacedbad":"6ca95fbb7d16577a9ef2fded94dc85b5d40c629f6bef2c649888e3cbb0ededc7810c04b12c2983bbbbc482e16e45c9215ae12c15c55f2f4809d06652":"":"feedfacedeadbeeffeedfacedeadbeefabaddad2":"e6472b8ebd331bfcc7c0fa63ce094462":0:MBEDTLS_ERR_CIPHER_AUTH_FAILED
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'

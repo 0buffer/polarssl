@@ -42,4 +42,4 @@ else
   [ $VERBOSE ] && echo "Tracking Makefiles"
   git update-index --no-assume-unchanged Makefile library/Makefile programs/Makefile tests/Makefile
 fi
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
