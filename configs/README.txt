@@ -25,4 +25,4 @@ them, you can pick one of the following methods:
 
 Note that the second method also works if you want to keep your custom
 configuration file outside the mbed TLS tree.
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'

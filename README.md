@@ -171,4 +171,4 @@ We gratefully accept bug reports and contributions from the community. There are
 3.  Write a test which shows that the bug was fixed or that the feature works as expected.
 4.  Send a pull request and bug us until it gets merged and published. We will include your name in the ChangeLog :)
 
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
