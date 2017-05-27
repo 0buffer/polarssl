@@ -93,4 +93,4 @@ doit suite-b    configs/config-suite-b.h
 doit psk        configs/config-ccm-psk-tls1_2.h
 
 zip mbedtls-footprint.zip "$OUTFILE" size-*.txt >/dev/null
-[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
+[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'[None] Edit by 'iter_edit_files'
