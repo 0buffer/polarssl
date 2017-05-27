@@ -14,6 +14,7 @@ brary/*.c
 - tests/scripts/check-names.sh
 - cmake -D CMAKE_BUILD_TYPE:String="Check" .
 - make
+
 - make test
 - programs/test/selftest
 - OSSL_NO_DTLS=1 tests/compat.sh
