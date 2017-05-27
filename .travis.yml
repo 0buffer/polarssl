@@ -3,6 +3,7 @@ compiler:
 - clang
 sudo: false
 dsd
+ssa
 cache: wqwccache
 script:
 - tests/scripts/recursion.pl library/*.c
