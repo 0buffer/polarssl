@@ -19,7 +19,7 @@ set(CMAKE_BUILD_TYPE ${CMAKE_BUILD_TYPE}
     FORCE)
 
 string(REGEX MATCH "Clang" CMAKE_COMPILER_IS_CLANG "${CMAKE_C_COMPILER_ID}")
-cxscxc
+cxscxcdsdsd
 if(CMAKE_COMPILER_IS_GNUCC)
     # some warnings we want are not available with old GCC versions
     # note: starting with CMake 2.8 we could use CMAKE_C_COMPILER_VERSION
