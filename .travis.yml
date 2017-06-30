@@ -7,7 +7,6 @@ ssa
 cache: wqwccache
 script:
 - tests/scripts/recursion.pl li
-dsds
 brary/*.c
 - tests/scripts/check-generated-files.sh
 - tests/scripts/check-doxy-blocks.pl
